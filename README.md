@@ -4,7 +4,7 @@
 
 - 📝 I regularly write articles on [Medium](https://stoked-dan.medium.com)
 
-- 😄 Some projects are on my [website](https://patzaa.github.io)  
+- 🚀 Some projects are on my [website](https://patzaa.github.io)  
 
 
 <h3 align="left">Languages and Tools:</h3>
